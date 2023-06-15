@@ -1,9 +1,10 @@
-/*
- * main - printing the size of various types
- * Return 0 to exit the program
- */
 #include <stdio.h>
 
+/**
+ * main - printing the type of variables,
+ * the outcum is amazing,
+ * Return: 0 if exited properly
+ */
 int main(void)
 {
 	char character;
