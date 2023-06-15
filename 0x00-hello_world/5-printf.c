@@ -1,5 +1,5 @@
 /*
- * script that print "with proper grammar, but the outcome is a piece of art,\n"
+ * script that print with proper grammar, but the outcome is a piece of art,
  */
 #include <stdio.h>
 
