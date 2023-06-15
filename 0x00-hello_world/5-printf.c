@@ -3,8 +3,7 @@
  */
 
 #include <stdio.h>
-
-int main(void)
+int main(void) /*hello*/
 {
 /* print this cool thing */
 printf("with proper grammar, but the outcome is a piece of art,\n");
