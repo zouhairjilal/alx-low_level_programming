@@ -16,7 +16,7 @@ int main(void)
 
 	for (alphbt = 97; alphbt <= 102; alphbt++)
 		putchar(alphbt);
-	
+
 	putchar('\n');
 
 	return (0);
