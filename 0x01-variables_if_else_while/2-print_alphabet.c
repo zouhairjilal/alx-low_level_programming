@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+ * main - a script that print alphabit in lowercase,
+ * Return: if return is 0 is a good sign :)
+ */
 int main(void)
 {
 	int i;
