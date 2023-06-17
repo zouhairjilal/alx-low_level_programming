@@ -6,7 +6,7 @@
  * Return: if return is 0 is a good sign :)
  */
 
-int main(void)
+int main()
 {
 	int i;
 
