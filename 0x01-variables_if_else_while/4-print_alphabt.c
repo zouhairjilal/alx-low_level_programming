@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - a script that prints alphabits in lowercase 
- * except q and e ony using putchar,
- * Return: if return is 0 is a good sign :) 
+ * main - a script that prints alphabits in lowercase
+ * * except q and e ony using putchar,
+ * Return: if return is 0 is a good sign :)
  */
 
 int main(void)
