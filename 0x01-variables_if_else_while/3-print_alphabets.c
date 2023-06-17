@@ -2,7 +2,7 @@
 
 /**
  * main - a script that print alphabits upper case and lower case,
- * return: 0 is a good sign :)
+ * Return: 0 is a good sign :)
  */
 
 int main(void)
