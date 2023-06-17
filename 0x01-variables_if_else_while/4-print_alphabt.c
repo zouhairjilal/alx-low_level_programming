@@ -6,7 +6,7 @@
  * Return: if return is 0 is a good sign :)
  */
 
-int main()
+int main(void)
 {
 	int i;
 
@@ -18,4 +18,6 @@ int main()
 			putchar(i);
 	}
 	putchar('\n');
+
+	return (0);
 }
