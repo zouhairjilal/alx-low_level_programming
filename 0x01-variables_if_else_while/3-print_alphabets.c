@@ -15,7 +15,7 @@ int main(void)
 		printf("%c", lower);
 	}
 
-	for (upper = 65; upper < 90; upper++)
+	for (upper = 65; upper < 91; upper++)
 	{
 		printf("%c", upper);
 	}
