@@ -7,14 +7,17 @@
 
 int main(void)
 {
-	for (int i = 97; i < 123; i++)
+	int lower;
+	int upper;
+
+	for (lower = 97; lower < 123; lower++)
 	{
-		printf("%c", i);
+		printf("%c", lower);
 	}
 
-	for (int i = 65; i < 90; i++)
+	for (upper = 65; upper < 90; upper++)
 	{
-		printf("%c", i);
+		printf("%c", upper);
 	}
 
 	return (0);
