@@ -12,14 +12,14 @@ int main(void)
 
 	for (lower = 97; lower < 123; lower++)
 	{
-		printf("%c", lower);
+		putchar("%c", lower);
 	}
 
 	for (upper = 65; upper < 91; upper++)
 	{
-		printf("%c", upper);
+		putchar("%c", upper);
 	}
-
+	putchar("\n");
 	return (0);
 }
 
