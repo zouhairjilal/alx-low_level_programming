@@ -14,7 +14,7 @@ int _islower(int c)
 		if ( c == lower)
 			return (1);
 
-	for (upper = 'A'; upper < 'Z'; i++)
+	for (upper = 'A'; upper < 'Z'; upper++)
 	{
 		if ( c == upper)
 			return (0);
