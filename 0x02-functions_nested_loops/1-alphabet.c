@@ -1,20 +1,23 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * main - a function that prints the alphabet, in lowercase,
  * followed by a new line.
  * Return: if return is 0 that's a good sign :)
  */
-void print_alphabet()
+void print_alphabet(void)
 {
-	for(i = a; i >= z; i++)
+	int i;
+
+	for(i = 97; i <= 122; i++)
+	{
 		_putchar(i);
+	}
 	_putchar('\n');
 
-	return (0);
 }
 
 int main(void)
 {
-	print_alphabit
+	print_alphabet();
 }
