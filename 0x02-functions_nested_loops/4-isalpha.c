@@ -8,6 +8,6 @@
 
 int _isalpha(int c)
 {
-	return (c >= 'a' || c >= 'A')
+	return (c >= 'a' || c >= 'A');
 	
 }
