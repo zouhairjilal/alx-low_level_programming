@@ -7,7 +7,6 @@
 
 void print_to_98(int n)
 {
-    int n = 0;
     while (n <= 98)
     {
         if (n == 98)
@@ -21,5 +20,5 @@ void print_to_98(int n)
         }
         n++;
     }
-    return (0)
+    return (0);
 }
