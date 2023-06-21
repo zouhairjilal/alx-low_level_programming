@@ -5,7 +5,7 @@
  *
  */
 
-void print_to_98(voi)
+void print_to_98(void)
 {
     int n = 0;
     while (n <= 98)
